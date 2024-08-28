@@ -1,1 +1,4 @@
-# Bebra888228
+## 👋🏻 Hello, I'm Bebra777228
+
+### Stats
+![](https://github-readme-stats.vercel.app/api?username=Bebra777228&show_icons=true&theme=dark#gh-dark-mode-only)
